@@ -1,4 +1,4 @@
-
+# STANDARD code
 def fahrenheit_to_celsius(fahrenheit):
     """
     Convert Fahrenheit to Celsius.
